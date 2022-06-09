@@ -19,7 +19,7 @@ CChildView::CChildView()
     m_pComposer = NULL;
     m_bMouseDrag = false;
 }
-
+//
 CChildView::~CChildView()
 {
 }
