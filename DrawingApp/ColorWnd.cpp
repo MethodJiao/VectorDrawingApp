@@ -14,7 +14,7 @@ CColorWnd::CColorWnd(CWnd* pParent /*=NULL*/)
     : CDialog(CColorWnd::IDD, pParent)
 {
 }
-
+ 
 CColorWnd::~CColorWnd()
 {
 }
